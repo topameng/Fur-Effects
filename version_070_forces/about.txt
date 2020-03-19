@@ -1,0 +1,36 @@
+www.xbdev.net
+
+bkenwright@xbdev.net
+
+Simple Fur Demo
+
+Demonstrates the basic principle of creating a simple fur effect using
+transparency and layers.
+
+Best way to understand it, is to think of an onion, if all the layers where
+transparent, you'd see nothing, now imagine, you had a blob, in the same place
+on each of the layers...because each of the layers are so close together
+it looks like a single long extruded pole or spike etc.
+
+Now imagine this principle, but with lots of dots/noise for the surfaces..
+you get a sort of fur effect.  
+
+Demo key inputs:
+
+Up/Down Keys: Fur Lengths
+
+Home/End: Number of layers
+
+Left/Right: Scales texture (finer/chubbier fur effect)
+
+Also you can rotate the object using the mouse while pressing the
+left mouse button.
+
+Misc Other Additions:
+Q & A keys are used for looking at the various texture layers in the
+top left corner.
+
+Z & X for changing the fur density of the texture - slow as it has to
+destroy and rebuid the texture.
+
+....
